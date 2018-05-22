@@ -16,11 +16,6 @@ public class MilesTest {
     }
 
     @Test
-    public void shouldReturnCorrectNumberOfInches() {
-        assertEquals(316800.0, testMiles.getInches());
-    }
-
-    @Test
     public void shouldConfirmTwoInchesEqual() {
         Inches inch1 = new Inches(316800.0);
         assertEquals(inch1, testMiles);

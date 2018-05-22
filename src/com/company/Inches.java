@@ -3,11 +3,7 @@ package com.company;
 public class Inches extends Length {
 
     public Inches(double rawValue) {
-        super(rawValue);
+        super(rawValue, 1);
     }
 
-    @Override
-    void setInches() {
-        this.inches = this.rawValue;
-    }
 }

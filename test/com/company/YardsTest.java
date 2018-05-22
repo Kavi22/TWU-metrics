@@ -16,11 +16,6 @@ public class YardsTest {
     }
 
     @Test
-    public void shouldReturnCorrectNumberOfInches() {
-        assertEquals(72.0, testYards.getInches());
-    }
-
-    @Test
     public void shouldConfirmTwoInchesEqual() {
         Inches inch1 = new Inches(72.0);
         assertEquals(inch1, testYards);

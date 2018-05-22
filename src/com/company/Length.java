@@ -6,22 +6,15 @@ import java.util.Objects;
 
 abstract class Length {
 
-    protected double inches;
-    protected double rawValue;
+    private double inches;
 
-    public Length(double rawValue) throws ValueException {
+    public Length(double rawValue, int conversionFactor) throws ValueException {
         if (rawValue < 0)
             throw new ValueException("You done messed up brah");
-        this.rawValue = rawValue;
-        setInches();
+        this.inches = rawValue * conversionFactor;
 
     }
 
-    abstract void setInches();
-
-    public double getInches() {
-        return inches;
-    }
 
     @Override
     public boolean equals(Object o) {
@@ -33,7 +26,6 @@ abstract class Length {
 
     @Override
     public int hashCode() {
-
         return Objects.hash(inches);
     }
 }

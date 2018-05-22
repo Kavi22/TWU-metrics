@@ -7,11 +7,6 @@ import static org.junit.Assert.assertNotEquals;
 
 public class InchesTest {
 
-    @Test
-    public void shouldReturnCorrectNumberOfInches() {
-        Inches inches = new Inches(5);
-        assertEquals(5.0, inches.getInches());
-    }
 
     @Test
     public void shouldConfirmTwoInchesEqual() {

@@ -16,11 +16,6 @@ public class FeetTest {
     }
 
     @Test
-    public void shouldReturnCorrectNumberOfInches() {
-        assertEquals(24.0, testFeet.getInches());
-    }
-
-    @Test
     public void shouldConfirmTwoInchesEqual() {
         Inches inch1 = new Inches(24);
         assertEquals(inch1, testFeet);
