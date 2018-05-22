@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc26ead0-ea42-4dd8-b192-b4fce0eec18c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Feet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Feet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Inches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Inches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Feet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Feet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Inches.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Inches.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Length.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Length.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Miles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Miles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Yards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TW_Java_Kata_2/com/company/Yards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/FeetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/FeetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/InchesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/InchesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/MilesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/MilesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/YardsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/TW_Java_Kata_2/com/company/YardsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Miles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Miles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Yards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Yards.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/FeetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/FeetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/InchesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/InchesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/YardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/YardsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,14 +24,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FeetTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/com/company/FeetTest.java">
+      <file leaf-file-name="LengthTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/company/LengthTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InchesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/company/InchesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeetTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/company/FeetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YardsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/company/YardsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MilesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/company/MilesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Miles.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Miles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Feet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Feet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Yards.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Yards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Length.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Length.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Inches.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Inches.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -54,15 +151,15 @@
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/test/com/company/LengthTest.java" />
         <option value="$PROJECT_DIR$/test/com/company/Miles.java" />
-        <option value="$PROJECT_DIR$/test/com/company/MilesTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/Miles.java" />
         <option value="$PROJECT_DIR$/src/com/company/Feet.java" />
         <option value="$PROJECT_DIR$/src/com/company/Inches.java" />
         <option value="$PROJECT_DIR$/src/com/company/Yards.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Length.java" />
         <option value="$PROJECT_DIR$/test/com/company/YardsTest.java" />
         <option value="$PROJECT_DIR$/test/com/company/InchesTest.java" />
         <option value="$PROJECT_DIR$/test/com/company/FeetTest.java" />
+        <option value="$PROJECT_DIR$/test/com/company/MilesTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Length.java" />
       </list>
     </option>
   </component>
@@ -75,7 +172,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="959" />
@@ -283,20 +380,19 @@
       <updated>1526917694551</updated>
       <workItem from="1526917696287" duration="4157000" />
       <workItem from="1526922670402" duration="47000" />
-      <workItem from="1526976085496" duration="2995000" />
+      <workItem from="1526976085496" duration="3253000" />
     </task>
+    <task id="LOCAL-00001" summary="Refactor [1]">
+      <created>1526980039072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526980039073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="InchesTest - 2018.05.21 at 17h 26m 51s.xml">
-      <configuration name="InchesTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FeetTest - 2018.05.21 at 17h 34m 15s.xml">
-      <configuration name="FeetTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FeetTest - 2018.05.21 at 17h 34m 39s.xml">
-      <configuration name="FeetTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="com_company_in_TW_Java_Kata_2 - 2018.05.21 at 17h 34m 52s.xml">
       <configuration name="com.company in TW_Java_Kata_2" configurationId="JUnit" />
     </history-entry>
@@ -318,17 +414,26 @@
     <history-entry file="com_company_in_TW_Java_Kata_2 - 2018.05.21 at 17h 56m 55s.xml">
       <configuration name="com.company in TW_Java_Kata_2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="com_company_in_TW_Java_Kata_2 - 2018.05.22 at 10h 03m 39s.xml">
+      <configuration name="com.company in TW_Java_Kata_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_company_in_TW_Java_Kata_2 - 2018.05.22 at 10h 06m 03s.xml">
+      <configuration name="com.company in TW_Java_Kata_2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_company_in_TW_Java_Kata_2 - 2018.05.22 at 10h 06m 44s.xml">
+      <configuration name="com.company in TW_Java_Kata_2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7199000" />
+    <option name="totallyTimeSpent" value="7457000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="959" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" id="Messages" order="4" visible="true" weight="0.31809524" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.31809524" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -336,7 +441,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3387471" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32655367" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32542372" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3201856" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
@@ -360,7 +465,7 @@
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32655367" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3257143" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49317408" weight="0.26556778" />
@@ -381,7 +486,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3387471" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.31864408" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.31809524" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="3" sideWeight="0.5017544" side_tool="true" weight="0.25641027" />
     </layout-to-restore>
@@ -391,6 +496,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Refactor [1]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor [1]" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test/com/company/LengthTest.java">
@@ -576,58 +686,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/company/MilesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/company/LengthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Miles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Feet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Inches.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Yards.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="90">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Length.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Feet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Miles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/company/MilesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -636,18 +726,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/company/YardsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
+        <state relative-caret-position="285">
           <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/company/InchesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -656,8 +736,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/company/FeetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/company/InchesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/company/LengthTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Length.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

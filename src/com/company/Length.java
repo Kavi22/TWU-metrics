@@ -6,15 +6,14 @@ import java.util.Objects;
 
 abstract class Length {
 
-    private double inches;
+    private final double inches;
 
-    public Length(double rawValue, int conversionFactor) throws ValueException {
+    Length(double rawValue, int conversionFactor) throws ValueException {
         if (rawValue < 0)
             throw new ValueException("You done messed up brah");
         this.inches = rawValue * conversionFactor;
 
     }
-
 
     @Override
     public boolean equals(Object o) {
